@@ -1,0 +1,37 @@
+@import url(
+'https://fonts.googleapis.com/css2?family=Oswald:wght@200;300&family=Poppins:wght@300;400;500;600&display=swap');
+
+body {
+    font-family: 'Oswald', sans-serif;
+    background: cadetblue;
+    text-align: center;
+    margin-top: 210px;
+    color: rgb(7, 9, 10);
+}
+
+.header {
+    position: absolute;
+    width: 400px;
+    height: 300px;
+    left: 500px;
+    top: 150px;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 50px rgba(0, 0, 0, 0.15);
+    border-radius: 90px;
+    background-color: rgba(32, 32, 32, 0.795);
+    color: rgba(117, 255, 209, 0.918);
+   
+}
+
+.js-inc-btn {
+    border-radius: 5px;
+    background-color: aquamarine;
+    color: rgb(36, 37, 37);
+}
+
+.js-clear-btn {
+    border-radius: 5px;
+    background-color: aquamarine;
+    color: rgb(36, 37, 37);
+}
+
